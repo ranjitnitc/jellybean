@@ -14,4 +14,4 @@ h3 {
 <h3 style="color:red;">My project in devops with Git Maven and Docker</h3>
 
 </body>
-</html>
+</html
